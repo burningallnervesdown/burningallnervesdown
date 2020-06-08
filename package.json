@@ -20,13 +20,6 @@
   "homepage": "http://example.com",
   "author": "Name <you@example.com>",
   "description": "Project description.",
-  "config": {
-    "host": "0.0.0.0",
-    "port": 3000,
-    "ghooks": {
-      "pre-commit": "npm test"
-    }
-  },
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
